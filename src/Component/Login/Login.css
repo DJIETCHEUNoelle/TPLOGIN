@@ -1,0 +1,26 @@
+
+
+.Button{
+
+    width: 10%;
+
+}
+
+.Input{
+
+    width: 20%;
+
+}
+.Input{
+    color: red;
+    margin: 12px;
+}
+
+.Box{
+
+    width: 40%;
+    height: 50%;
+    border-radius: 4px;
+    box-shadow: 50%;
+
+}
